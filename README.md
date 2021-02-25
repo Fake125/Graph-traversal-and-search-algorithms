@@ -23,10 +23,10 @@ The program can read graph data via two methods either from program console or f
 
 ![image](https://user-images.githubusercontent.com/77664485/109084321-4114db00-7710-11eb-8aa8-fd5d3924ebf7.png)
 In the previous graph, data should be entered as follows:
-a b cost
-a c cost
-b c cost
-c d cost
+- a b cost
+- a c cost
+- b c cost
+- c d cost
 , where cost should be replaced with the edge cost values as in weighted graphs.
 
 ### Makefile
